@@ -1,3 +1,3 @@
 # UpsideDownDetector
 
-I have used the dataset from Kaggle 'Cats vs dogs' dataset to detect if the images are upside down images.With the ResNet18 model the accuracy rate is 99.90% with epoch 5
+I have used the dataset from Kaggle 'Cats vs dogs' dataset to detect if the images are upside down or straight.With the ResNet18 model I got an accuracy of 99.90% in 5 epochs.
